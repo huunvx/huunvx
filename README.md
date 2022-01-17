@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @huunvx
-- 👀 I’m interested in computer science
+- 👀 I’m interested in computer science, hackintosh.
 - 🌱 I’m currently learning Laravel, VueJS, React, Flutter, HTML&CSS.
 
 <!---
